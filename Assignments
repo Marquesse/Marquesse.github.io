@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <h1> Coding</h1>
+        <meta charset="utf-8">
+        <link rel="stylesheet" type="text/css" href="style.css">
+        <a href="index.html"><h3>Home</h3></a> &nbsp; &#9632; &nbsp;
+        <a href="aboutcoding.html"><h3>about coding</h3></a> &nbsp; &#9632; &nbsp;
+        
+    </head>
+    
+    <body>
+        <hr>
+        <p><h2> Coding is about finding new languages, inventions and frameworks.</h2></p>
+        <b>
+        <p><h2>When you learn how to code, focus on basics first.</h2></p>
+        <b>
+        <p><h2>Understanding what coding is at a fundamental level will make solving problems easier and will give you a better understanding of how these technologies work.</h2></p>
+        <img src="https://tse4".mm.bing.net/th/id/OTP.fmmAx2o6NndScaWWcPGcYQAAAA?pid=ImgDet&rs=1"
+        
+    </body>
+</html>
