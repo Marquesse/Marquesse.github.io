@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>My Portfolio </title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+		<div id="container">
+	<header>
+	<h1>Mar'quesse Vaughn's Portfolio</h1>
+	</header>
+<nav> 
+<p>     <a href="index.html"><h3>Home</h3></a>&nbsp; &#9632; &nbsp;
+	<a href="Aboutme.html"><h3>About me</h3></a> &nbsp; &#9632; &nbsp; 
+    	<a href="Assignments.html"><h3>Assignments</h3></a> &nbsp; &#9632; &nbsp; 
+ 	<a href="index.html"><h3>Contact me</h3></a></p>
+	
+	</nav>
+	<main>
+	
+		<div id="intro">
+	
+	<p>Hello, my name is Mar'quesse Vaughn and this is my Portfolio.</p>
+       <p> I go to the cvcc Programing and software development course but my home school is Garfield Heights High School.</p>
+	
+		</div>
+	</main>
+	<footer>
+	
+	 <p>marquesse.vaughn@stu.cvccworks.edu</p>
+	</footer>
+		</div>
+
+</body>
+
+</html>
