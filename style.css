@@ -2,4 +2,19 @@ body{
     text-shadow: 1px 1px 1px red;
 }
 body{background-color: rgba(2, 34, 34, 0.623);}
-  
+
+head img{
+	margin: 5;
+}
+ a{
+	color: rgba(2, 34, 34, 0.623);
+	font-size: big;
+	display:inline-block;
+}
+
+nav{
+	padding: 2%;
+	margin-bottom: 1%;
+	text-align: center;
+}
+
