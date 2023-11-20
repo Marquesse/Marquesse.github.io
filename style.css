@@ -3,6 +3,10 @@ body{
 }
 body{background-color: rgba(2, 34, 34, 0.623);}
 
+body{
+	text-align: center;
+}
+
 head img{
 	margin: 5;
 }
@@ -11,6 +15,7 @@ head img{
 	font-size: large;
 	display:inline-block;
 }
+
 
 nav{
 	padding: 2%;
