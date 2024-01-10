@@ -10,11 +10,7 @@ body{
 head img{
 	margin: 5;
 }
- a{
-	color: rgba(2, 34, 34, 0.623);
-	font-size: large;
-	display:inline-block;
-}
+ 
 a{
 	text-decoration:none;
 	color: #333;
