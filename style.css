@@ -1,24 +1,29 @@
 body{
-    text-shadow: 1px 1px 1px red;
+    text-shadow: 3px 3px 3px rgb(91, 208, 255);
 }
 body{background-color: rgba(0,0,0,1);}
 
 body{
-	text-align: center;
+	text-align:center;
+	color:#ffffff;
+}
+header{
+	text-align:left;
+    color:#ffffff;
 }
 
 head img{
 	margin: 5;
 }
 a{
-	color: rgba(0,0,0,1);
+	color: rgb(255, 248, 248);
 	font-size: large;
 	display:inline-block;
 }
  
 a{
 	text-decoration:none;
-	color: #333;
+	color: #ffffff;
 	transition: all 0.3s ease;
 }
 
@@ -30,11 +35,12 @@ a:hover{
 nav{
 	padding: 2%;
 	margin-bottom: 1%;
-	text-align: center;
+	text-align: right;
 }
 
 .grid-item{
-	color: rgba(0, 0, 0, 0.459);
+	color: rgb(253, 252, 252);
 	border: 2px solid
 }
+
 
