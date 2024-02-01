@@ -11,7 +11,7 @@ head img{
 	margin: 5;z
 }
 a{
-	color: rgba(0,0,0,0);
+	color: rgba(0,0,0,1);
 	font-size: large;
 	display:inline-block;
 }
